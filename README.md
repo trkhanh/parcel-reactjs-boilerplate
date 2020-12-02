@@ -1,8 +1,10 @@
-# parcel-react
+#  Reactjs + Parcel + Js Starter Project 
 
-A minimal React.js boilerplate with [parcel as bundler](https://github.com/parcel-bundler/parcel). Parcel is an alternative web application bundler to Webpack.
+A simple boilerplate to production builds.
 
-## Installation
+## Getting started
+
+### Create your project folder.
 
 ```bash
 # create new project

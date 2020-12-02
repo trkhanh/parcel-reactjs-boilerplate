@@ -4,7 +4,7 @@ A minimal React.js boilerplate with [parcel as bundler](https://github.com/parce
 
 ## Installation
 
-`
+```bash
 # create new project
 $ npx degit trkhanh/parcel-reactjs-boilerplate example-1
 $ cd example-1
@@ -17,4 +17,4 @@ $ npm start
 
 # build the app
 $ npm run build
-`
+```

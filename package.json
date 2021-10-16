@@ -1,9 +1,14 @@
 {
-  "name": "parcel-react-boilerplate",
-  "version": "2.0.0",
-  "main": "src/index.js",
+  "name": "parcel-reactjs",
+  "version": "1.0.0",
+  "description": "A minimal React.js boilerplate with parcel as bundler",
+  "main": "index.js",
+  "keywords": [
+    "parcel",
+    "react"
+  ],
+  "author": "Tran Khanh",
   "license": "MIT",
-  "author": "dastasoft <dastasoft@protonmail.com> (https://dastasoft.com)",
   "scripts": {
     "start": "parcel --no-cache public/index.html",
     "build": "parcel build public/*",

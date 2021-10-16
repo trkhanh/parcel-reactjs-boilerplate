@@ -1,6 +1,17 @@
-.DS_Store
-npm-debug.log
+# Parcel #
+.cache
+dist
 
-.cache/
-dist/
-node_modules/
+# Yarn / NPM #
+.DS_*
+*.log
+logs
+node_modules
+
+# VisualStudioCode #
+.history
+!.vscode/tasks.json
+!.vscode/launch.json
+
+#husky
+.husky

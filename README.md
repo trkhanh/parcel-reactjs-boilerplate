@@ -1,5 +1,24 @@
 # Parcel React Boilerplate
 
+A minimal React.js boilerplate with [parcel as bundler](https://github.com/parcel-bundler/parcel). Parcel is an alternative web application bundler to Webpack.
+
+## Installation
+
+```bash
+# create new project
+$ npx degit trkhanh/parcel-reactjs-boilerplate example-1
+$ cd example-1
+
+# install required packages
+$ yarn;
+
+# run the app
+$ yarn start
+
+# build the app
+$ yarn run build
+```
+
 We will create a simple React boilerplate with [Parcel](https://parceljs.org/) bundler, linter, prettier and a few things more for create new React apps quick.
 
 You always can use [Create React App](https://github.com/facebook/create-react-app) or even a [CRA version with Parcel](https://github.com/assuncaocharles/create-react-app-parcel) but the scope of this guide is making a smaller/simpler boilerplate.
